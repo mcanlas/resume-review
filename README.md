@@ -44,6 +44,8 @@ Earlier in your career, you will probably have to list classes in lieu of profes
   - E.g. "utilized" instead of just "used"
 - **Avoid "introductions" or "goals".**
   - The wordier or aspirational parts of your resume should go into a cover letter.
+- **Mention the technologies you used in your line items.**
+  - Compare "Migrated to databases" to "Migrated from CSV records to AWS RDS"
   
 ## Advanced tips
 
