@@ -20,7 +20,7 @@ Earlier in your career, you will probably have to list classes in lieu of profes
 
 ## General tips
 
-- **Avoid hyperlinks.** Hyperlinks don't work if your resume is printed.
+- **Avoid hyperlinks.** Hyperlinks don't work if your resume is printed. Don't assume your interviewers are reading your resume digitally.
 - **Limit your resume to one printed page.**
   - If you're dead set on providing more information, make sure your resume is still functional as a single page (as if everything else got lost). Anything after the page should be specified as an addendum and lack critical information (which should have been on the first page)
 - **Use a professional e-mail address.**
@@ -50,6 +50,12 @@ Earlier in your career, you will probably have to list classes in lieu of profes
 - **Version control your resume.** So that rapidly adding and deleting things doesn't become a burden.
 - **Have multiple copies of your resume.** E.g. if you are a full-stack developer applying for a position that is not full stack, tailor to highlight your relevant skills.
   - Also have multiple cover letters ready for the same reason.
+  
+## Interview tips
+
+- Have multiple print copies of your resume ready to give.
+- Don't assume your interviewers have read your resume.
+  - This one is awful. But life happens. Interviewers get switched at the last second or just aren't doing their due diligence. Help them out by being flexible and approachable.
 
 ## About me
 
