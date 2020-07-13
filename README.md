@@ -30,7 +30,7 @@ Earlier in your career, you will probably have to list classes in lieu of profes
 - **Start with strong action verbs**
   - E.g. led, upgraded, analyzed, developed, migrated
 - **Streamline the education section.**
-  - Remove dates. Interiewers shouldn't and don't want to know anything about your age.
+  - Remove dates. Interviewers shouldn't and don't want to know anything about your age.
   - The only exception is a future date, indicating a degree you are expected to receive (i.e. you are currently a student)
   - Don't list classes.
     - Exception: You are applying for further academic work.
