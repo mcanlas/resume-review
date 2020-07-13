@@ -9,7 +9,7 @@ Earlier in your career, you will probably have to list classes in lieu of profes
 ### Example undergraduate resume by section
 
 1. Expected degree
-1. Classes
+1. Relevant classes and course work or projects
 1. Out-of-field work experience
 
 ### Example steady state resume by section
