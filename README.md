@@ -46,18 +46,24 @@ Earlier in your career, you will probably have to list classes in lieu of profes
   - The wordier or aspirational parts of your resume should go into a cover letter.
 - **Mention the technologies you used in your line items.**
   - Compare "Migrated to databases" to "Migrated from CSV records to AWS RDS"
+- **Your stated role should match the role you are applying to.**
+  - If your resume title says "Machine Learning engineer", the job you are applying for should be "Machine Learning engineer" or something very similar
   
 ## Advanced tips
 
 - **Version control your resume.** So that rapidly adding and deleting things doesn't become a burden.
 - **Have multiple copies of your resume.** E.g. if you are a full-stack developer applying for a position that is not full stack, tailor to highlight your relevant skills.
   - Also have multiple cover letters ready for the same reason.
+- **Include your full name, position, and date on the file name of your resume.**
+  - Helps with sorting in case your resume gets lost.
   
 ## Interview tips
 
 - Have multiple print copies of your resume ready to give.
 - Don't assume your interviewers have read your resume.
   - This one is awful. But life happens. Interviewers get switched at the last second or just aren't doing their due diligence. Help them out by being flexible and approachable.
+- Keep a database of positions you've applied for.
+  - Including screenshots or offline copies of the job listing. Sometimes they get removed for whatever reason, but you always want to have a copy just in case 
 
 ## About me
 
