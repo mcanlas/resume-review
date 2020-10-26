@@ -1,6 +1,6 @@
 # resume-review
 
-The tips below are targeted towards individuals applying for software engineering jobs. If this doesn't describe you, then the tips may not apply!
+The tips below are targeted towards individuals applying for software engineering jobs. If this doesn't describe you, then these tips may not apply!
 
 ## Resume evolution
 
