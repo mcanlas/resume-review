@@ -42,7 +42,7 @@ Earlier in your career, you will probably have to list classes in lieu of profes
   - Unless you can guarantee that your audience knows all of your terms.
   - Avoid phrases or acronyms that require explanation
 - **Avoid fluff words.**
-  - E.g. "utilized" instead of just "used"
+  - E.g. don't say "utilized" instead of just "used"
 - **Avoid "introductions" or "goals".**
   - The wordier or aspirational parts of your resume should go into a cover letter.
 - **Mention the technologies you used in your line items.**
