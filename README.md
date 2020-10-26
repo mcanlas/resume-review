@@ -20,7 +20,7 @@ Earlier in your career, you will probably have to list classes in lieu of profes
 
 ## General tips
 
-- **Avoid hyperlinks.** Hyperlinks don't work if your resume is printed. Don't assume your interviewers are reading your resume digitally.
+- **Avoid relying on hyperlinks.** Hyperlinks don't work if your resume is printed. Don't assume your interviewers are reading your resume digitally. Spell out the URLs (but you can still link them to make the digital copies more accessible)
 - **Limit your resume to one printed page.**
   - If you're dead set on providing more information, make sure your resume is still functional as a single page (as if everything else got lost). Anything after the page should be specified as an addendum and avoid containing critical information (which should have been on the first page)
   - Repeat your name and contact information on all subsequent pages
