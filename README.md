@@ -72,4 +72,4 @@ I'm a software engineer specializing in Scala.
 
 ## Colophon
 
-Created in July 2020 as a part of a crowd-sourced resume review process for Out in Tech.
+Created in July 2020 as a part of a crowd-sourced resume review process for [Out in Tech](https://outintech.com/).
